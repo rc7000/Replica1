@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Expert</title>
+<style>
+h1
+    {
+        font-family: monospace;
+        font-size: 70px;
+    }
+    h2
+    {
+        font-family: monospace;
+        font-size: 70px;
+    }
+    p
+    {
+        font-family: serif;
+        font-size: 35px;
+    }
+    </style>
+    </head>
+    <body>
+        <h1>The World's First Fairness </h1>
+        <h1>Expert</h1>
+        <p>After two years of meticulous research and experimentation,the world's first lightening cream,</p>
+        <p>Fair & Lovely, was launched.Using 100% safe ingrediants,it provided effective and visible</p>
+        <p>fairness to women,and more than that,it provided hope.Hope to millions of women around</p>
+        <p>the world,especially in Asia,who desired fairer and even-toned skin,for how it made them</p>
+        <p>feel about themselves,and for how it made the world see them.</p>
+        <br>
+        <center><img src="our-story-row2-image_min.jpg"></center>
+        <br>
+        <hr color=black>
+        <br>
+        <h2>40 Years of Innovation</h2>
+        <p>Being firmly established as the global leading fairness cream doesn't mean we stop</p>
+        <p>innovating.It means we work harder at it than ever.Fair & Lovely had its genesis in a scientific</p>
+        <p>discovery,and science is where the heart of our business always is.Through unceasing</p>
+        <p>rigorous research and development,we seek to deliver fairness treatments with superior</p>
+        <p>efficacy,to reach more and more women around the world.</p>
+        <br>
+        <img src="our-story-row3-image_min.png"><br><br>
+        <br>
+        <hr color="black">
+        <br>
+        <h2> Changing Faces, Then and Now </h2>
+        <p>The World's first,safe and effective skin lightening cream launched in 1975,impacting lives </p>
+        <p>and transforming fairness of women all over the world.</p>
+    </body>
+</html>
